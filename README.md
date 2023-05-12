@@ -1,5 +1,5 @@
 # AI-Artificial-Intelligence
-From Paintings to Pixels: The Impact of Artificial Intelligence on Artistic Expression 
+From Manual to Autonomous: The Rise of Artificial Intelligent Robotics and Its Implications for the Workforce and Society
 
 Assigned Tasks for Research Paper:
 
